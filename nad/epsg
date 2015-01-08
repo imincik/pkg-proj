@@ -8462,3 +8462,5 @@
 <32761> +proj=stere +lat_0=-90 +lat_ts=-90 +lon_0=0 +k=0.994 +x_0=2000000 +y_0=2000000 +datum=WGS84 +units=m +no_defs  <>
 # WGS 84 / TM 36 SE
 <32766> +proj=tmerc +lat_0=0 +lon_0=36 +k=0.9996 +x_0=500000 +y_0=10000000 +datum=WGS84 +units=m +no_defs  <>
+# S-JTSK Krovak East North
+<5514> +proj=krovak +lat_0=49.5 +lon_0=24.83333333333333 +alpha=30.28813975277778 +k=0.9999 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs +towgs84=542.5,89.2,456.9,5.517,2.275,5.516,6.96 <>

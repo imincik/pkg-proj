@@ -5218,7 +5218,7 @@
 # S-JTSK Ferro Krovak East North
 <102066> +proj=krovak +lat_0=49.5 +lon_0=24.83333333333333 +alpha=30.28813975277778 +k=0.9999 +x_0=0 +y_0=0 +ellps=bessel +pm=-17.66666666666667 +units=m  no_defs <>
 # S-JTSK Krovak East North
-<102067> +proj=krovak +lat_0=49.5 +lon_0=24.83333333333333 +alpha=30.28813975277778 +k=0.9999 +x_0=0 +y_0=0 +ellps=bessel +units=m  no_defs <>
+<102067> +proj=krovak +lat_0=49.5 +lon_0=24.83333333333333 +alpha=30.28813975277778 +k=0.9999 +x_0=0 +y_0=0 +ellps=bessel +units=m +no_defs +towgs84=542.5,89.2,456.9,5.517,2.275,5.516,6.96 <>
 # Monte Mario Italy 1
 <102091> +proj=tmerc +lat_0=0 +lon_0=9 +k=0.999600 +x_0=1500000 +y_0=0 +ellps=intl +units=m  no_defs <>
 # Monte Mario Italy 2
